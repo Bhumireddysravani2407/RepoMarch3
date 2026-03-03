@@ -1,5 +1,5 @@
 // Original array
-let arr = [1, 2, 3, 4, 5];
+let arr = [1, 2, 3, 4, 5,6];
 
 // New array to store reversed values
 let reversed = [];
